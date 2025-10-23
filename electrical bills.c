@@ -1,4 +1,9 @@
-// q1_electric_bill.c
+/*
+Name : Dominic Muthomi 
+REG NO :CT101/G/26556/25
+DATE :23/10/2025
+Description :calculation of electric bills
+*/
 #include <stdio.h>
 
 long calculateElectricBill(long units) {
